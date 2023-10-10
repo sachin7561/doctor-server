@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.4"
+  },
+  "name": "appointment-server",
+  "version": "1.0.0",
+  "description": "json server",
+  "main": "index.js",
+  "scripts": {
+    "start": " node index.js"
+  },
+  "author": "sachin",
+  "license": "ISC"
+}
